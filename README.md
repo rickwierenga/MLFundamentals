@@ -2,7 +2,7 @@
 
 ![MIT](https://img.shields.io/badge/license-MIT-green)
 
-Notebooks for the "ML from the Fundamentals" series. Link: https://rickwierenga.com/blog/ml-fundamentals/.
+Notebooks for the "ML from the Fundamentals" series. An intuitive, first principles approach to ML. Link: https://rickwierenga.com/blog/ml-fundamentals/.
 
 ## Supervised Learning
 
